@@ -1,5 +1,5 @@
-# theme = nord
-theme = evergarden-spring-green.yml
+theme = nord
+# theme = evergarden-spring-green.yml
 fullscreen = true
 clipboard-read = allow
 clipboard-write = allow
